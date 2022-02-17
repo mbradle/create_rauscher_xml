@@ -1,0 +1,4 @@
+*.xml
+*_comp
+*_structure
+.ipynb*
